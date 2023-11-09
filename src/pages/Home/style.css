@@ -1,0 +1,50 @@
+.HomeHero{
+width: 100%;
+height: 600px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+color: white;
+font-family: sans-serif;
+}
+
+.HomeHero h1{
+    font-size: 60px;
+    margin-right: 50%;
+}
+
+.HomeHero p{
+    font-size: 40px;
+    margin-left: 6%;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.HomeHero input{
+    width: 83%;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 5%;
+    margin-left: 6%;
+    outline: none;
+}
+
+.HomeHero button{
+width: 120px;
+height: 50px;
+background-image: linear-gradient(aqua,lime);
+border: none;
+border-radius: 30px;
+position: relative;
+top: -50px;
+left: 85%;
+}
+
+
+.containerHome{
+    width: 100%;
+    height: 600px;
+    background: url("https://scontent.ffru1-4.fna.fbcdn.net/v/t39.30808-6/300504067_445684367592498_5957156852801815606_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JPztf-vA_p8AX884g0u&_nc_ht=scontent.ffru1-4.fna&oh=00_AfASCVYekXfhVqgMBDRZZO3CrTdVs-eSXtUAgDvvbIbqSQ&oe=654E33C3");
+}
+
